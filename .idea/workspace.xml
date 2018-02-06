@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be7c5667-8a0a-4ca7-b3bb-dcd5153c6e27" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fruits.txt" afterPath="$PROJECT_DIR$/fruits.txt" />
+    <list default="true" id="d8771571-f44d-420c-8e74-4bb49b16ac8d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/colors.txt" afterPath="$PROJECT_DIR$/colors.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,25 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="colors.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="colors.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/colors.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fruits.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fruits.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-<<<<<<< HEAD
-              <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-=======
-              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
->>>>>>> feature1
+              <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -54,7 +39,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/colors.txt" />
-        <option value="$PROJECT_DIR$/fruits.txt" />
       </list>
     </option>
   </component>
@@ -79,8 +63,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -95,7 +78,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,11 +194,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="be7c5667-8a0a-4ca7-b3bb-dcd5153c6e27" name="Default" comment="" />
-      <created>1517908332452</created>
+      <changelist id="d8771571-f44d-420c-8e74-4bb49b16ac8d" name="Default" comment="" />
+      <created>1517909634509</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1517908332452</updated>
+      <updated>1517909634509</updated>
     </task>
     <servers />
   </component>
@@ -262,38 +246,7 @@
     <entry file="file://$PROJECT_DIR$/colors.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-<<<<<<< HEAD
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fruits.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/colors.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-=======
->>>>>>> feature1
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fruits.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-<<<<<<< HEAD
-          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-=======
-          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
->>>>>>> feature1
+          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
           <folding />
         </state>
       </provider>
