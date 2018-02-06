@@ -30,7 +30,11 @@
         <entry file="file://$PROJECT_DIR$/fruits.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
+<<<<<<< HEAD
               <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+=======
+              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+>>>>>>> feature1
               <folding />
             </state>
           </provider>
@@ -259,6 +263,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+<<<<<<< HEAD
           <folding />
         </state>
       </provider>
@@ -275,6 +280,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+=======
+>>>>>>> feature1
           <folding />
         </state>
       </provider>
@@ -282,7 +289,11 @@
     <entry file="file://$PROJECT_DIR$/fruits.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
+<<<<<<< HEAD
           <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+=======
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+>>>>>>> feature1
           <folding />
         </state>
       </provider>

@@ -2,4 +2,8 @@ apples
 berries
 cherries
 grapes
+<<<<<<< HEAD
 asd
+=======
+berries
+>>>>>>> feature1
